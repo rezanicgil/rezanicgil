@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rezan
 - 👀 I’m interested in ML, Embedded Systems and AI technologies.
-- 🌱 I’m currently learning JPA, SQL
+- 🌱 I’m currently learning JPA, SQL also Flutter and Kotlin
 - 📫 How to reach me at https://www.linkedin.com/in/rezanicgil/
 
 <!---
