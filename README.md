@@ -4,7 +4,7 @@ Software Engineer · Backend Systems & Applied AI · Istanbul, Türkiye
 
 I have nearly 4 years of professional experience building production APIs and enterprise integrations. At Insider One, I built a shared TypeScript foundation for AWS Lambda services. At Appcent, I used PostgreSQL query plans to refine indexes and reduce response times on critical endpoints.
 
-[One-page CV (PDF)](https://www.rezan.dev/resume.pdf) · [Portfolio](https://www.rezan.dev) · [LinkedIn](https://www.linkedin.com/in/rezanicgil)
+[Portfolio](https://www.rezan.dev) · [LinkedIn](https://www.linkedin.com/in/rezanicgil)
 
 In Job Radar, my personal job-search tool, a model drafts a CV for a vacancy. Before delivery, I check its claims against recorded experience and validate the exported PDF. One check flags wording that turns operating a system into claiming I designed it.
 
