@@ -8,7 +8,7 @@ I have nearly 4 years of professional experience building production APIs and en
 
 | Project | What to look at |
 | --- | --- |
-| [Event-driven microservices](https://github.com/rezanicgil/event-driven-microservices-nestjs) | Follow a request through the NestJS services and run the examples with Docker Compose. |
+| [Event-driven microservices](https://github.com/rezanicgil/event-driven-microservices-nestjs) | Trace the NestJS order flow, then [run two outbox failure tests](https://github.com/rezanicgil/event-driven-microservices-nestjs/tree/main/examples/transactional-outbox) covering rollback and duplicate delivery. |
 | [Tatilzu](https://github.com/rezanicgil/tatilzu-showcase) | See the hotel discovery interface, architecture and how the demo distinguishes sample data from live content. |
 | [Search engine](https://github.com/rezanicgil/search-engine) | Explore the backend and frontend of a search application. |
 | [Engineering notes](https://www.rezan.dev/blog) | Read about PostgreSQL query plans, indexing and service boundaries. |
